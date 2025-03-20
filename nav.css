@@ -158,7 +158,7 @@ button{
 }
  .GC1 ,.GC2 , .GC3 , .GC4 , .GC5 , .GC6 , .GC7 , .GC8,.GC9 , .GC10, .GC{
     border: 1px solid lightsteelblue;
-    height: 400px;
+    height: 402px;
     width: 300px;
     margin: 10px;
     background-color: gainsboro;
@@ -169,7 +169,7 @@ button{
     
  }
   .GC11 , .GC21 , .GC31 , .GC41 , .GC51 , .GC61 , .GC71 , .GC81,.GC91 , .GC101, .GCA{
-    height: 200px;
+    height: 202px;
     width: 270px;
     padding: 14px;
     border-radius: 20px; 
@@ -369,7 +369,7 @@ h3{
     transform: translate(350%);
      color: black;
     font-size: x-large;
-    top: 72.5%;
+    top: 70.5%;
  }
    .countdown-timer div:last-child::after{
     content: "";
@@ -421,7 +421,7 @@ h3{
     transform: translate(350%);
      color: black;
     font-size: x-large;
-    top: 72.5%;
+    top: 70.5%;
    
  }
    .countdown-timer1 div:last-child::after{
